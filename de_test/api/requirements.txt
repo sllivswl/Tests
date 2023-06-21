@@ -1,0 +1,10 @@
+pandas>=0.25
+numpy
+python-dateutil
+pytest
+urllib3
+pyyaml
+requests
+bs4
+selenium
+pycoingecko
