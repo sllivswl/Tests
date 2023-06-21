@@ -17,4 +17,6 @@ The input data sources are comprised of customers (in CSV format), transactions 
 
 Generate output_data:
 ```bash
+python generate_data/generator.py
 python generate_data/customers_transactions.py
+```
